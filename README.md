@@ -14,6 +14,6 @@ The file "trainPlan2D/test_outset.py" contains the similar procedures to evaluat
 Folder "dataProcess": A tool package mainly contains the pre-processing of raw data with reference to the nnU-Net.
 Folder "trainPlan2D": Different model training/tesing files and tool files(including sequence-processing and Extractor and Integrator modules).
 ## Contact information
-if you have any questions, feel free to contact me.
+if you have any questions, feel free to contact me. /br
 Shuxiang Huang
 Shenzhen University, Shenzhen, China E-mail: huangsx33333@163.com
